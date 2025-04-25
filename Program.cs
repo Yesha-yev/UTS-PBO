@@ -42,7 +42,7 @@ class PenarikanDana : DataRekening
     }
     public override void Tampilan()
     {
-        Console.WriteLine(SetSaldo);
+        Console.WriteLine(SetSaldo); 
     }
 }
 
